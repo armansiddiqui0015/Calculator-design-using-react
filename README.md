@@ -1,2 +1,8 @@
-# Calculator-design-using-react
-Can I use react to build a calculator app?  Yes, you can use other libraries or frameworks with React to build a calculator app. For example, you could use Redux for state management, or Bootstrap for styling. These libraries and frameworks can provide additional functionality and make it easier to build certain parts of your app.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
